@@ -1,4 +1,8 @@
 {
-  "name": "Copy of Amna - Secure AI Fashion Editor555555",
-  "description": "Amna (أمنة) transforms your fashion concepts into high-end, secure, and professional luxury campaigns using advanced AI with a focus on data privacy and security."
+  "name": "أمنة - محرر الأزياء الفاخر بالذكاء الاصطناعي",
+  "description": "Amna (أمنة) هو محرر ذكي متخصص في تحويل مفاهيم الموضة إلى حملات فاخرة واحترافية باستخدام الذكاء الاصطناعي مع التركيز على الخصوصية والأمان.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }
