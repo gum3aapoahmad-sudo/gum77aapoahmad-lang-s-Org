@@ -1,8 +1,4 @@
 {
   "name": "Copy of Amna - Secure AI Fashion Editor555555",
-  "description": "Amna (أمنة) transforms your fashion concepts into high-end, secure, and professional luxury campaigns using advanced AI with a focus on data privacy and security.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
+  "description": "Amna (أمنة) transforms your fashion concepts into high-end, secure, and professional luxury campaigns using advanced AI with a focus on data privacy and security."
 }
